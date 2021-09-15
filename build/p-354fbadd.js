@@ -1,0 +1,1 @@
+const o={menuActions:"menu-actions",menuTooltip:"menu-tooltip"},e={more:"More"},n={menu:"ellipsis"};export{n as I,o as S,e as T}

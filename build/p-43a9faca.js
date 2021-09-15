@@ -1,0 +1,1 @@
+function e(e,n,r){return new(function(e){return"intersection"===e?IntersectionObserver:"mutation"===e?MutationObserver:ResizeObserver}(e))(n,r)}export{e as c}

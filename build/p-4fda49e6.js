@@ -1,0 +1,1 @@
+const e={menu:"menu",defaultTrigger:"default-trigger"},t={tooltip:"tooltip",trigger:"trigger"},r={menu:"ellipsis"};export{e as C,r as I,t as S}
